@@ -4,13 +4,15 @@ Welcome to the ChatGPT Youtube Bot setup guide! This Node.js Chat Bot integrates
 
 ## 1. Fork this on Github
 
-Start by logging into your Github account and forking this repository. Don't forget to give it a star too!
+Start by logging into your Github account and forking this repository. <strong>Don't forget to give it a star too!</strong>
 
 ---
 
 ## 2. Fill out your context file
 
 Open the file named `file_context.txt` and fill it with background information for ChatGPT. This information enhances the bot's responses. Feel free to provide any details you think would be helpful for training your bot.
+
+(I made This Template for my friend [FleXGuy](https://www.youtube.com/channel/UCjx7TNunoyeub4E2zhBky2Q) ..Feel free to add or remove any info from the template)
 
 ---
 
@@ -73,3 +75,18 @@ $(urlfetch https://your-Render-url.app/gpt/"$(user):$(querystring)")
 ```
 
 Replace "your-Render-url.app" with the API link you copied earlier.
+
+## Contributing
+
+as always Contributions to this project are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+## Contact
+
+If you have any questions or inquiries, please feel free to get in touch:
+
+- Email: avinash.warale@yandex.com
+- Discord: [@p4rz1v4l26](https://discordapp.com/users/896411007797325824/)
+
+or you can join
+
+- [Discord server](https://discord.gg/vFWB2KGcH9)
