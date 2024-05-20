@@ -76,20 +76,17 @@ $(urlfetch https://your-Render-url.app/gpt/"$(user):$(querystring)")
 
 Replace "your-Render-url.app" with the API link you copied earlier.
 
-
-
 ## Contributing
 
 as always Contributions to this project are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-
 ## Contact
-
 
 If you have any questions or inquiries, please feel free to get in touch:
 
 - Email: avinash.warale@yandex.com
 - Discord: [@p4rz1v4l26](https://discordapp.com/users/896411007797325824/)
 
-or you can join 
+or you can join
+
 - [Discord server](https://discord.gg/vFWB2KGcH9)
