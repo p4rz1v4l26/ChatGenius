@@ -1,4 +1,4 @@
-# ChatGPT Youtube Bot
+# ChatGenius - ChatGPT Youtube Bot
 
 Welcome to the ChatGPT Youtube Bot setup guide! This Node.js Chat Bot integrates seamlessly with ChatGPT, providing prompt responses and engaging conversations. Below is a step-by-step guide on how to set up and customize your own version of the bot.
 
